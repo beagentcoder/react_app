@@ -1,6 +1,6 @@
 // import logo from './logo.svg';
 import './App.css';
-import Cal from './component/Cal'
+// import Cal from './component/Cal'
 import ToggleDetails from './component/ToggleDetails';
 
 
